@@ -37,6 +37,7 @@
             <item index="29" class="java.lang.String" itemvalue="pandas" />
             <item index="30" class="java.lang.String" itemvalue="matplotlib" />
             <item index="31" class="java.lang.String" itemvalue="pytz" />
+            <item index="32" class="java.lang.String" itemvalue="sklearn" />
           </list>
         </value>
       </option>
